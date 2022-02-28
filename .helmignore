@@ -9,6 +9,8 @@
 .bzrignore
 .hg/
 .hgignore
+.helmignore
+
 .svn/
 # Common backup files
 *.swp
@@ -18,6 +20,10 @@
 *~
 # Various IDEs
 .project
+.pack
+.idx
+.txt
+.tpl
 .idea/
 *.tmproj
 .vscode/
